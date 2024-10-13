@@ -1,11 +1,12 @@
 # My-Quote
 
-Alur Latihan
+# Alur Latihan
+
 Berikut adalah alur yang akan kita lakukan dalam latihan kali ini:
 
-Membuat project baru dengan nama MyQuote.
-Menambahkan library ke dalam project.
-Mengatur tampilan pada berkas layout XML.
-Membuat fungsi getRandomQuote untuk mengambil data dari API.
-Mengimplementasikan fungsi getRandomQuote ke dalam Activity.
-Menjalankan aplikasi.
+1. Membuat project baru dengan nama **MyQuote**.
+2. Menambahkan library ke dalam project.
+3. Mengatur tampilan pada berkas layout XML.
+4. Membuat fungsi **getRandomQuote** untuk mengambil data dari API.
+5. Mengimplementasikan fungsi **getRandomQuote** ke dalam Activity.
+6. Menjalankan aplikasi.
